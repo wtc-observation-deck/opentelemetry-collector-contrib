@@ -5,6 +5,7 @@ go 1.21.0
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.104.0
 	github.com/opensearch-project/opensearch-go/v2 v2.3.0
+	github.com/opensearch-project/opensearch-go/v4 v4.1.0
 	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.104.1-0.20240709093154-e7ce1d50fb5e
 	go.opentelemetry.io/collector/config/configauth v0.104.1-0.20240709093154-e7ce1d50fb5e
