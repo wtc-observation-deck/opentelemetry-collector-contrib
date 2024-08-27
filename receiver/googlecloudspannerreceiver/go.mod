@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	cloud.google.com/go/spanner v1.67.0
-	github.com/ReneKroon/ttlcache/v2 v2.11.0
+	github.com/ReneKroon/ttlcache/v3 v3.3.0
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.107.1-0.20240827012220-5963d446ca4a
