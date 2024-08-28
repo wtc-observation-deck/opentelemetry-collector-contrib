@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/processor/metricsplitterprocessor
+module github.com/wtc-observation-deck/opentelemetry-collector-contrib/processor/metricsplitterprocessor
 
 go 1.22.0
 
